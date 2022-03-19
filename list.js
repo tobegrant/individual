@@ -34,7 +34,7 @@ et lessons =[
     {
         'id': 5,
         'subject': "Biology",
-        'location': "Russia",
+        'location': "Rusia",
         'price': 40,
         'Numberofspaces': 5, 
         'image': "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQGkwAwjpIYv2aBoAl42PObOGA9aLGLJ6Pw&usqp=CAU",
