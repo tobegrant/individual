@@ -1,4 +1,4 @@
-et lessons = [
+et lessons =[
     {
         'id': 1,
         'subject': "Math",
